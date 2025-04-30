@@ -7,7 +7,7 @@
 
 Su funcionalida se basa en realizar las cuatro operaciones basicas de las matematicas las cuales son: sumar, restar, multiplicar y divir. El cual esta dirigido a todos los usuarios con las capacidades para abrir y ejcutar el proyecto. Su objetivo es facilitar las operaciones basicas de las matemacticas de manera rapida y efectiva.
 
-
+ 
 ### Características principales
 
 
@@ -28,7 +28,7 @@ Para este proyecto utilizamos dos tipos de sintaxis:
 
 ### Cómo ejecutar el proyecto
 
-Para ejecutar el proyecto debemos descargar el proyecto y abrir el html, ya abierto presionamos clik derecho, elegimos la opción Open whit live server y este se ejecutara.
+Para ejecutar el proyecto debemos descargar el proyecto y abrirlo con el editor visual estudio code abrir el html, ya abierto presionamos clik derecho, elegimos la opción Open whit live server y este se ejecutara en un entorno web.
 
 
 ### Autores y Creditos 
