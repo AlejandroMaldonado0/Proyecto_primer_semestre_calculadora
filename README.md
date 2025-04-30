@@ -11,7 +11,7 @@ Su funcionalida se basa en realizar las cuatro operaciones basicas de las matema
 ### Características principales
 
 
-Es una calculadora basica en la cual solo se pueden operar dos números con las cuatro operacines basicas:
+Es una calculadora basica en la cual se operan dos números con las cuatro operacines basicas:
 
 * Sumar 
 * Restar 
