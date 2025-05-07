@@ -23,7 +23,7 @@ Es una calculadora básica en la cual se operan dos números con las cuatro oper
 
 Para este proyecto utilizamos dos tipos de sintaxis:
 
-* ``vista.html``: estructura de la interfaz 
+* ``vista.html``: estructura de la interfaz gráfica
 
 * ``calcuadora.js``:contiene la lógica de las operaciones 
 
@@ -33,11 +33,11 @@ Para ejecutar el proyecto debemos descargar el proyecto y abrirlo con el editor 
 
  ### Còmo probarlo
 
-para probar la calculadora debemos ingresar el primer número en la casilla la cual tiene el nombre número 1, ahora se debe ingresar el segundo número en la casilla que lleva el nombre numero 2, debe elegir con que operación matemática quiere operar los dos números, la presiona y esta le dará el resultado.  
+Para utilizar la calculadora, primero ingrese el primer número en la casilla denominada "Número 1". Luego, introduzca el segundo número en la casilla llamada "Número 2". A continuación, seleccione la operación matemática que desea realizar entre las disponibles. Una vez elegida, presione el botón correspondiente y la calculadora mostrará el resultado. 
 
 
 ### Autores y Créditos 
 
 
  * Autor de documentación : Anderson Alejandro Reina Maldonado
- * Autor del desarrollo del código: Profesora Ana Maria Galarza Leon
+ * Autor del desarrollo: Profesora Ana Maria Galarza Leon
